@@ -1,4 +1,4 @@
-###Regulatory Technology (RegTech)
+### Regulatory Technology (RegTech)
 
 ##### What is RegTech?
  RegTech takes the latest in greatest in technological innovations, such as data science techniques, artificial intelligence (AI) and automation, blockchain and more, to easily adapt to the regulatory requirements while being cost-effective and secure.  These technology solutions will allow companies to automate processes like monitoring data and reporting to regulatory bodies. All the reporting can be done in real-time using data analytics. Especially given the number of headlines in the news about data breaches, hacks, and regulatory fines and violations, regulatory bodies are closely monitoring large financial organizations. This is especially the case for major financial organizations that deal with trading, payments, and money transfers, which need to monitor all activities and report daily to the regulatory bodies. RegTech fills the current gap in the financial sector by ensuring compliance by automating these tedious and error-prone manual reporting processes by bringing technology, regulation, and financial services together.
@@ -40,15 +40,15 @@ RegTech technology can be used in Know Your Customer (KYC) processing. By combin
  Some of the most complex RegTech solutions can be used for forecasting, scenario analysis, modelling and to complete required ‘stress tests’ that could further be developed to produce faster and more detailed results. Furthermore, data analytics would also be used in a predictive context for targeted risk analysis with respect to individuals and broadly for internal modelling to be used to develop strategy and report to regulators. Overall, the stage seems set for RegTech to be embraced by global financial institutions – the sooner, the better!
 
 ----------------------------
-# Caspian
- [www.caspian.co.uk] 
- For the last 4 years the RegTech companies presented their company’s services to compete for RegTech Insight Award. The RegTech Insight Awards celebrate providers of leading RegTech solutions, services, and consultancy. These awards are uniquely designed to recognize both start-up and established providers who are creatively finding solutions to help with regulatory challenges and span a wide range of regulatory requirements.
+# [Caspian](www.caspian.co.uk)
+ For the last 4 years the RegTech companies presented their company’s services to compete for *[RegTech Insight Award](https://a-teaminsight.com/awards/regtech-awards/)*. The RegTech Insight Awards celebrate providers of leading RegTech solutions, services, and consultancy. These awards are uniquely designed to recognize both start-up and established providers who are creatively finding solutions to help with regulatory challenges and span a wide range of regulatory requirements.
 
- One of the winners in 2020 was company “Caspian”, who specializes in Automated Anti Laundering Money (AML) Investigations. They won the sector for Best Regulatory Alert Management Solution. Money laundering is the illegal process of concealing the origins of money obtained illegally by passing it through a complex se quence of banking transfers or commercial transactions. The overall scheme of this process returns the "clean" money to the launderer in an obscure and indirect way. Money laundering is the oxygen that fuels crime and corruption. About 6.7% of global GDP, worth US$5.8tn, is due to criminal activity, including drugs, arms, and human trafficking, international terrorism, and illegal environmental destruction. Three quarters of these funds are then laundered through the international financial system.
- [RegTech winner 2020] (https://www.caspian.co.uk/resources/regtech-insight-award-2020-win-for-caspian/)
+ One of the winners in 2020 was company *[Caspian](https://www.caspian.co.uk/resources/regtech-insight-award-2020-win-for-caspian/)*, who specializes in Automated Anti Laundering Money (AML) Investigations. They won the sector for Best Regulatory Alert Management Solution. Money laundering is the illegal process of concealing the origins of money obtained illegally by passing it through a complex se quence of banking transfers or commercial transactions. The overall scheme of this process returns the "clean" money to the launderer in an obscure and indirect way. Money laundering is the oxygen that fuels crime and corruption. About 6.7% of global GDP, worth US$5.8tn, is due to criminal activity, including drugs, arms, and human trafficking, international terrorism, and illegal environmental destruction. Three quarters of these funds are then laundered through the international financial system.
+
+   
 
 
-![money laundering] https://www.engageinlearning.com/wp-content/uploads/why-anti-money-laundering-imp-e1565702839415.jpg), (https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSriNCue3HdgVKtsNcQwBy9oPzojit8VcohUaG4rmr_bkhwC2GE&usqp=CAU), (https://resize.hswstatic.com/w_907/gif/money-wash.jpg)
+![](https://www.engageinlearning.com/wp-content/uploads/why-anti-money-laundering-imp-e1565702839415.jpg) 
 
 The company had been founded in 2002, and originally was providing measuring, improving, and predicting workforce behavior patterns that drive risk, efficiency, and service. However, company changed direction of the services in 2016 aiming AML. The company is privately owned and still quite small in size, around 50 employees. The founder, Chris Brannigan, is trained neuroscientist and performance simulation expert with vast experience in Banking and Technology Strategy.
 Caspian helps banks protect themselves from money launderers by using machine learning and artificial intelligence to detect and investigate transactions and commercial entities at scale. 
@@ -86,13 +86,14 @@ This affords a risk executive the power to deliver risk policy consistently into
 
 ##### Funding
 
-###### [funding by Nasdaq] (https://www.caspian.co.uk/resources/nasdaq-ventures-invests-in-caspian/)
-
- (In January 06, 2020 it had been officially confirmed that Nasdaq Ventures, the investment arm of Nasdaq, has taken a minority stake in Caspian. This is a major step in enabling Caspian to continue rapidly investing in our world leading technology and solutions that are helping global banks to automate Anti Money Laundering Investigations. Here is the statement from Nasdaq Ventures regarding their decision to invest into Caspian.
+ (In January 06, 2020 it had been officially confirmed that *[Nasdaq Ventures](https://www.caspian.co.uk/resources/nasdaq-ventures-invests-in-caspian/)*, the investment arm of Nasdaq, has taken a minority stake in Caspian. This is a major step in enabling Caspian to continue rapidly investing in our world leading technology and solutions that are helping global banks to automate Anti Money Laundering Investigations. Here is the statement from Nasdaq Ventures regarding their decision to invest into Caspian.
   “We explored the AML market extensively to identify suitable growth opportunities as it’s an area that we feel is ripe for innovation through technology. Burdened with multi-billion-dollar operational expenses. Moreover, expensive, and inconsistent processes lead to inefficiencies, and there is a shortage of qualified staff. Interviews with several Tier 1 banks helped to validate our hypothesis.
  We decided that Caspian is the right innovator for us because it has a proven and validated technology solution that solves a huge pain point, dramatically increases analyst productivity, and yields meaningful cost-savings for compliance teams. To this end, we are making a minority investment in Caspian, because we believe that together, we can truly advance the industry’s approach to financial crime and improve transparency and integrity across global markets.
 We have core competencies in fighting financial crime through our experience as a leading RegTech provider. That, combined with our ability to build solutions at scale for global distribution, adds value to Caspian’s solution and our investments – both from a knowhow and financial perspective – and will enable Caspian to accelerate its go-to-market strategy. Further, Caspian can take advantage of our expertise in enterprise SaaS hosting, proven delivery capabilities and world-class information security standards to help accelerate its cloud migration and SaaS journey, while continuing to focus on innovating its machine learning platform.”
-#
+
+
+![](https://resize.hswstatic.com/w_907/gif/money-wash.jpg)
+
 
 
  2020 seems to be a year of showing the results of years of hard work for Caspian. Winning the award in RegTech sector, and, getting funded by one of the biggest investors in the world, Nasdaq Ventures, who has quite a large choice of companies to be invested in, it is a great measure of success. 
